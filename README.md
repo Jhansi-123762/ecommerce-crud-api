@@ -1,4 +1,4 @@
-# Shopping API - FastAPI CRUD
+# Ecommerce -CRUD - FastAPI 
 
 A simple Shopping API built using **FastAPI** that performs CRUD (Create, Read, Update, Delete) operations.
 
