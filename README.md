@@ -1,4 +1,4 @@
-# Ecommerce -CRUD - FastAPI 
+# FastAPI-based E-Commerce CRUD API using MySQL and SQLAlchemy.
 
 A simple Shopping API built using **FastAPI** that performs CRUD (Create, Read, Update, Delete) operations.
 
